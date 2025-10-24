@@ -29,7 +29,7 @@ This interactive dashboard analyzes mobile phone sales across regions, brands, a
 
 ## 📸 Screenshot
 
-![Mobile Sales Dashboard Overview](images/overview.png)
+![Mobile Sales Dashboard Overview](https://github.com/Varun123456vk/Mobile-Sales-Dashboard/blob/7990c8a6b43bca283d88c6ccfe65530f5c0ff193/Screenshot%202025-10-24%20152633.png)
 
 > 💡 *Store your screenshots in an `images` folder within your repo, or update the paths above.*
 
